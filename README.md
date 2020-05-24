@@ -3,7 +3,7 @@ add your path variables at ease
 
 git clone https://github.com/gokulmaxi/autoexport.git
 
-cd auto export
+cd autoexport
 
 python3 add.py
 
