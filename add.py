@@ -25,7 +25,7 @@ def append(apath):
     export='export PATH=$PATH:{}'.format(apath)
     file_object.write(export)
     print(dir)
-pat=input("enter the path you want to export")
+pat=input("enter the path you want to export:")
 if(checkfile(pat)):
     print("your file is already exported")
 else:
